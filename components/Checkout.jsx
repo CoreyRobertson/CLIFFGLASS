@@ -24,7 +24,7 @@ export default function PreviewPage() {
 
             <div className="bg-white overflow-hidden relative lg:flex lg:items-center">
                 <div className="w-full py-12 px-20 sm:px-6 lg:py-16 lg:px-8 z-20c">
-                    <h2 className="text-3xl text-center font-bold text-black dark:text-white sm:text-4xl">
+                    <h2 className="text-3xl text-center font-bold text-black sm:text-4xl">
                         <span className="block ">
                             Heritage in a glass
                         </span>
