@@ -27,24 +27,24 @@ const Features = () => {
                         <div class="w-full md:w-6/12 px-4">
                             <div class="relative flex flex-col mt-4">
                                 <div class="px-4 py-5 flex-auto">
-                                    <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
+                                    <div class="text-slate-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                                         <i class="fas fa-sitemap"><GiDiamondHard /></i>
                                     </div>
                                     <h6 class="text-xl mb-1 font-semibold">Hardened Crystal</h6>
-                                    <p class="mb-4 text-blueGray-500">
+                                    <p class="mb-4 text-slate-500">
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     </p>
                                 </div>
                             </div>
                             <div class="relative flex flex-col min-w-0">
                                 <div class="px-4 py-5 flex-auto">
-                                    <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
+                                    <div class="text-slate-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                                         <i class="fas fa-drafting-compass"><MdOutlineWaves /></i>
                                     </div>
                                     <h6 class="text-xl mb-1 font-semibold">
                                         Enhanced Taste
                                     </h6>
-                                    <p class="mb-4 text-blueGray-500">
+                                    <p class="mb-4 text-slate-500">
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     </p>
                                 </div>
@@ -53,22 +53,22 @@ const Features = () => {
                         <div class="w-full md:w-6/12 px-4">
                             <div class="relative flex flex-col min-w-0 mt-4">
                                 <div class="px-4 py-5 flex-auto">
-                                    <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
+                                    <div class="text-slate-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                                         <i class="fas fa-newspaper"><SiStylelint /></i>
                                     </div>
                                     <h6 class="text-xl mb-1 font-semibold">Timeless Style</h6>
-                                    <p class="mb-4 text-blueGray-500">
+                                    <p class="mb-4 text-slate-500">
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     </p>
                                 </div>
                             </div>
                             <div class="relative flex flex-col min-w-0">
                                 <div class="px-4 py-5 flex-auto">
-                                    <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
+                                    <div class="text-slate-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                                         <i class="fas fa-file-alt"><MdBorderStyle /></i>
                                     </div>
                                     <h6 class="text-xl mb-1 font-semibold">Lorem ipsum</h6>
-                                    <p class="mb-4 text-blueGray-500">
+                                    <p class="mb-4 text-slate-500">
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     </p>
                                 </div>

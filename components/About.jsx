@@ -16,7 +16,7 @@ const About = () => {
                         <div>
                         </div>
                         <div>
-                            <img className="inline-block mt-24 md:mt-0 p-8 md:p-0 object-cover h-100 w-200" src="/glass2.jpg" /></div>
+                            <img className="inline-block mt-24 md:mt-0 p-0 md:p-0 " src="/glass2.jpg" /></div>
                         <div>
                         </div>
                     </div>
