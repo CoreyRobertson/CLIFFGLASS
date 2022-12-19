@@ -36,7 +36,7 @@ export default function PreviewPage() {
                     <div className="grid place-items-center">
                         <form action="/api/checkout_sessions" method="POST" >
                             <section >
-                                <button type="submit" role="link" className="my-10 py-2 px-20  bg-slate-500 hover:bg-white hover:text-black focus:ring-slate-500 focus:ring-offset-black-200 text-white  transition ease-in duration-200 font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg duration-1000">
+                                <button type="submit" role="link" className="my-10 py-10 px-20  bg-slate-500 hover:bg-white hover:text-black focus:ring-slate-500 focus:ring-offset-black-200 text-white  transition ease-in duration-200 font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg duration-1000 text-xl">
                                     Buy Now
                                 </button>
                             </section>
